@@ -54,6 +54,7 @@ This project demonstrates my skills in **Python, numerical methods, financial mo
 
 ### Absolute & Relative Errors
 ![Errors](https://github.com/Musaddiq485/Option-Pricing-The-Binomial-Model-The-Black-Scholes-Model/blob/ad50ab6ef178a24d583903b7f22e03a86469b50f/Screenshot%202025-10-31%20170345.png)
+![Errors](https://github.com/Musaddiq485/Option-Pricing-The-Binomial-Model-The-Black-Scholes-Model/blob/8bc540e0cfb41e67cca42006bc84db79f955ed7e/Screenshot%202025-10-31%20170408.png)
 *Absolute and relative errors decrease with increasing steps, demonstrating convergence.*
 
 ### Log-Log Convergence
