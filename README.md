@@ -53,7 +53,7 @@ This project demonstrates my skills in **Python, numerical methods, financial mo
 *CRR prices converge to the Black-Scholes price as number of steps increases.*
 
 ### Absolute & Relative Errors
-![Errors](images/errors_plot.png)
+![Errors](https://github.com/Musaddiq485/Option-Pricing-The-Binomial-Model-The-Black-Scholes-Model/blob/ad50ab6ef178a24d583903b7f22e03a86469b50f/Screenshot%202025-10-31%20170345.png)
 *Absolute and relative errors decrease with increasing steps, demonstrating convergence.*
 
 ### Log-Log Convergence
