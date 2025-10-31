@@ -49,7 +49,7 @@ This project demonstrates my skills in **Python, numerical methods, financial mo
 ## 📊 Results / Visualizations
 
 ### CRR vs Black-Scholes Convergence
-![CRR vs Black-Scholes](images/crr_bs_convergence.png)
+![CRR vs Black-Scholes](https://github.com/Musaddiq485/Option-Pricing-The-Binomial-Model-The-Black-Scholes-Model/blob/6d970f3281a11089d32eb6bd947c0aa409894f5d/Screenshot%202025-10-31%20170322.png)
 *CRR prices converge to the Black-Scholes price as number of steps increases.*
 
 ### Absolute & Relative Errors
