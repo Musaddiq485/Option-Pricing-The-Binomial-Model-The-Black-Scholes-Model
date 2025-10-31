@@ -58,7 +58,7 @@ This project demonstrates my skills in **Python, numerical methods, financial mo
 *Absolute and relative errors decrease with increasing steps, demonstrating convergence.*
 
 ### Log-Log Convergence
-![Log-Log Plot](images/loglog_convergence.png)
+![Log-Log Plot](https://github.com/Musaddiq485/Option-Pricing-The-Binomial-Model-The-Black-Scholes-Model/blob/8b27fdb979844d8b90150e5b0e34c856cfbee074/Screenshot%202025-10-31%20170422.png)
 *Log-log plot shows approximate slope -1 for convergence rate.*
 
 ### Odd-Even Oscillation Effect
@@ -78,8 +78,3 @@ This project demonstrates my skills in **Python, numerical methods, financial mo
 ## ⚠️ Notes
 - This project is part of my **learning and skill-building** in quantitative finance and Python programming  
 - Screenshots are placeholders — update them with your actual figures from Jupyter Notebook  
-
----
-
-## 🔗 Links (Optional)
-- [Python Notebook / Code](https://github.com/Musaddiq485/Option-Pricing-The-Binomial-Model-The-Black-Scholes-Model)
