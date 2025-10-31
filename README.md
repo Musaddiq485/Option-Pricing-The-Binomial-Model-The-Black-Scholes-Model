@@ -62,7 +62,7 @@ This project demonstrates my skills in **Python, numerical methods, financial mo
 *Log-log plot shows approximate slope -1 for convergence rate.*
 
 ### Odd-Even Oscillation Effect
-![Odd-Even Oscillation](images/odd_even_oscillation.png)
+![Odd-Even Oscillation](https://github.com/Musaddiq485/Option-Pricing-The-Binomial-Model-The-Black-Scholes-Model/blob/3b8fda8dc8b74675cfffc7bf94447248b19ff17a/Screenshot%202025-10-31%20172043.png)
 *Small N shows oscillation depending on step parity; stabilizes as N increases.*
 
 ---
